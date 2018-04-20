@@ -1,0 +1,7 @@
+Below please find instructions for running the code. 
+
+1. Navigate to the directory containing the slcsp.js / slcsp.1.js and the csv files using your terminal.
+
+2. Execute node {filename} in the terminal, and then navigate to the slcsp.csv / slcsp.1.csv to see the results. 
+
+//IMPORTANT -- The slcsp.1.csv and slcsp.csv currently have the solutions so that they can be analyzed by the reviewer. The files should be cleared of solutions if the code is to be run again. 
